@@ -1,8 +1,8 @@
 #!/bin/bash
 
 # Repo setup (run inside your repo)
-git config user.name "YourGitHubUsername"
-git config user.email "YourGitHubEmail@example.com"
+git config user.name "aman123443"
+git config user.email "2203118@ritindia.edu"
 
 # Array of random dates (50 days between April–July 2025)
 DATES=(
